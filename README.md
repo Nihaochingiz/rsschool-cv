@@ -36,14 +36,14 @@
  7. Education:
     ----------
     Pushkin Leningrad State University
-    Pilological faculty.Public Relations
+    Pilological faculty.Public Relations.
     HTML Academy. Course about Python 3 by Timothy Kiryanov. Mostly i learn programming with books. My favorite books is "Learning Python" by Mark Lutz, "Grokking Algorithms" by     Aditya Y. Bhargava , "Python crash course a hands on" by Eric Matthes and book.
-  8. English:
-     ----------
-     Upper Intermediate. 
-     In Univercity I have worked as English tutor with kids
+ 8. English:
+    ----------
+    Upper Intermediate.In Univercity I have worked as English tutor with kids
+    
   
   
-  	https://Nihaochingiz.github.io/rsschool-cv/cv
+  	
 
  
