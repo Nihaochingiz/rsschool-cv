@@ -2,13 +2,13 @@
      ============
 2.  Contacts:
     ----------
+    * [Gmail]ilyaf1999@gmail.com
+    * [Tel]+79819809940
+    * [Telegram]https://t.me/Ilyafofanov
+    * [Vk]https://vk.com/ilyaf99
+    * [Twitter]https://twitter.com/ABpjBD232nHOs5r
+    * [Facebook]https://www.facebook.com/profile.php?id=100042189623633
   
-  [Gmail]ilyaf1999@gmail.com
-  [Tel] +79819809940
-  [Telegram]https://t.me/Ilyafofanov
-  [Vk]https://vk.com/ilyaf99
-  [Twitter]https://twitter.com/ABpjBD232nHOs5r
-  [Facebook]https://www.facebook.com/profile.php?id=100042189623633
     
 3.  Objective:
      ----------
