@@ -40,8 +40,8 @@
   	HTML Academy. Course about Python 3 by Timothy Kiryanov. Mostly I learn programming with books. My favorite books is "Learning Python" by Mark Lutz, "Grokking Algorithms" by Aditya Y. Bhargava , "Python crash course a hands on" by Eric Matthes.
   8. English:
      ----------
-    	Upper Intermediate. 
-	In Univercity I have worked as English tutor with kids
+     Upper Intermediate. 
+     In Univercity I have worked as English tutor with kids
   
   
   	
