@@ -9,14 +9,14 @@
   [Vk]https://vk.com/ilyaf99
   [Twitter]https://twitter.com/ABpjBD232nHOs5r
   [Facebook]https://www.facebook.com/profile.php?id=100042189623633
-    -------------------     ----------------------------
+    
 3.  Objective:
-    ----------
-	Dependable and goal-oriented junior frontend-developer. I want to be in a good team, where I could improve my skills and use them to interesting tasks. I'd like to work on Front end. But, I think, for this, I need a good team lead, who could show me the best practices of work.
+     ----------
+     Dependable and goal-oriented junior frontend-developer. I want to be in a good team, where I could improve my skills and use them to interesting tasks. I'd like to work          on Front end. But, I think, for this, I need a good team lead, who could show me the best practices of work.
 4.  Professional skills:
     ----------
-    *HTML/CSS
-    *JavaScript
+    * HTML/CSS
+    * JavaScript
     	* Node.Js
     	* React
     	* Thee.js
@@ -25,7 +25,7 @@
 	    * Django
 	    * BeautulSoup
 	    * PyTelegramBotApi
-	*Git.  
+	* Git.  
 5.  Gitub:
     ----------
 https://github.com/Nihaochingiz
