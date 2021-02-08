@@ -28,20 +28,20 @@
 	*Git.  
 5.  Gitub:
     ----------
-https://github.com/Nihaochingiz
+    https://github.com/Nihaochingiz
 
 6.  Experience:
     ----------
-    I do not have experience in commercial development, but i have done some pet projects. I have done telegramBatBot with node.js, web-blog with django and game with phaser.js Also you cans my example of layout HTML/CSS. 
+    I do not have experience in commercial development, but i have done some pet projects. I have done telegramBatBot with node.js, web-blog with django and game with phaser.js     Also you cans my example of layout HTML/CSS. 
  7. Education:
     ----------
-  	Pushkin Leningrad State University
-  	Pilological faculty.Public Relations
-  	HTML Academy. Course about Python 3 by Timothy Kiryanov. Mostly i learn programming with books. My favorite books is "Learning Python" by Mark Lutz, "Grokking Algorithms" by Aditya Y. Bhargava , "Python crash course a hands on" by Eric Matthes and book.
+    Pushkin Leningrad State University
+    Pilological faculty.Public Relations
+    HTML Academy. Course about Python 3 by Timothy Kiryanov. Mostly i learn programming with books. My favorite books is "Learning Python" by Mark Lutz, "Grokking Algorithms" by     Aditya Y. Bhargava , "Python crash course a hands on" by Eric Matthes and book.
   8. English:
      ----------
-    	Upper Intermediate. 
-	In Univercity I have worked as English tutor with kids
+     Upper Intermediate. 
+     In Univercity I have worked as English tutor with kids
   
   
   	https://Nihaochingiz.github.io/rsschool-cv/cv
