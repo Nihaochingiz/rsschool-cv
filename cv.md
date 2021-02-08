@@ -11,8 +11,8 @@
   
     
 3.  Objective:
-     ----------
-     Dependable and goal-oriented junior frontend-developer. I want to be in a good team, where I could improve my skills and use them to interesting tasks. I'd like to work          on Front end. But, I think, for this, I need a good team lead, who could show me the best practices of work.
+    ----------
+    Dependable and goal-oriented junior frontend-developer. I want to be in a good team, where I could improve my skills and use them to interesting tasks. I'd like to work         on Front end. But, I think, for this, I need a good team lead, who could show me the best practices of work.
 4.  Professional skills:
     ----------
     * HTML/CSS
