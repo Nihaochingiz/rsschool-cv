@@ -1,3 +1,3 @@
-https://Nihaochingiz.github.io/rsschool-cv-html/
+https://Nihaochingiz.github.io/rsschool-cv/
 
  
