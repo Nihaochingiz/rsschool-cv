@@ -56,10 +56,20 @@ div {
   height: 1000px;
 }
 
-.cvphoto{
-   float: right; 
-    margin: 0 0 5px 5px
+figure {
+  float: right;
 }
+
+figcaption {
+     background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+figure p {
+    margin-bottom: 10; /* Отступ снизу */
+   }
 .gmail { 
     margin-bottom: 2%; 
    }
