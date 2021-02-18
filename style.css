@@ -82,16 +82,6 @@ figcaption {
 }
 
 
-.summary > h3,{
-  margin: 0;
-  padding-left: 1;
-  background-color: #eee;
-  font: 3rem 'Fira Sans', sans-serif;
-}
-
-.summary > p {
-margin: .2rem;
-}
 p,
 li {
   font-family: 'Cormorant Garamond';
