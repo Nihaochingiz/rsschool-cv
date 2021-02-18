@@ -67,6 +67,9 @@ figcaption {
     padding: 3px;
     text-align: center;
 }
+figure p {
+    margin-bottom: 10; /* Отступ снизу */
+   }
 .gmail { 
     margin-bottom: 2%; 
    }
@@ -77,8 +80,15 @@ figcaption {
 
 }
 
-.head {
-  font-weight: 600;
+.summary > h3,{
+  margin: 0;
+  padding-left: 1;
+  background-color: #eee;
+  font: 3rem 'Fira Sans', sans-serif;
+}
+
+.summary > p {
+margin: .2rem;
 }
 
 
