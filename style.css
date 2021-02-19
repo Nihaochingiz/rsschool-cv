@@ -15,7 +15,7 @@ div {
 header {
   height: 40px;
   width: 100%;
-  background-color: #d139ab;
+  background-color: #359bb8;
   position: fixed;
   z-index: 1;
 }
@@ -80,16 +80,7 @@ figure p {
 
 }
 
-.summary > h3,{
-  margin: 0;
-  padding-left: 1;
-  background-color: #eee;
-  font: 3rem 'Fira Sans', sans-serif;
-}
 
-.summary > p {
-margin: .2rem;
-}
 
 
 p,
@@ -99,6 +90,9 @@ li {
 
 .head {
   font-size: 20px;
+ font-weight: 600;
+  
+  
 }
 
 #name {
